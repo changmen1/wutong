@@ -52,8 +52,10 @@ export function SiteFooter() {
                   右侧扫码咨询
                 </li>
                 <li className="flex items-center gap-2">
-                  <Mail className="size-4 text-rose-500" />
-                  zxl17339811909@163.com
+                  <Mail className="size-4 shrink-0 text-rose-500" />
+                  <span className="break-all">
+                    zxl17339811909@163.com
+                  </span>
                 </li>
                 <li className="flex items-center gap-2">
                   <MapPin className="size-4 text-rose-500" />
