@@ -1,5 +1,5 @@
-import Image from "next/image";
 import { Mail, MapPin, MessageCircle } from "lucide-react";
+import Image from "next/image";
 
 export function SiteFooter() {
   return (
@@ -53,7 +53,7 @@ export function SiteFooter() {
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail className="size-4 text-rose-500" />
-                  hello@example.com
+                  zxl17339811909@163.com
                 </li>
                 <li className="flex items-center gap-2">
                   <MapPin className="size-4 text-rose-500" />
